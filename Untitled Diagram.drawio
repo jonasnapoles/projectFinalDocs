@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-11-15T09:57:23.337Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="ALdQDu4iblz2pSGMuH1c" version="15.7.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-15T18:10:46.696Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="xH4MHbznjLeEvomgJJPJ" version="15.7.4" type="github">
   <diagram name="Page-1" id="e56a1550-8fbb-45ad-956c-1786394a9013">
-    <mxGraphModel dx="2762" dy="800" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2208" dy="488" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -26,7 +26,7 @@
           <mxGeometry width="56" height="26" as="geometry" />
         </mxCell>
         <mxCell id="2e49270ec7c68f3f-8" value="Writer" style="swimlane;html=1;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#e0e0e0;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;swimlaneFillColor=#ffffff;align=center;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=14;swimlaneLine=1;" parent="1" vertex="1">
-          <mxGeometry x="870" y="358" width="210" height="142" as="geometry" />
+          <mxGeometry x="870" y="358" width="210" height="112" as="geometry" />
         </mxCell>
         <mxCell id="2e49270ec7c68f3f-9" value="ID INT" style="shape=partialRectangle;top=0;left=0;right=0;bottom=1;html=1;align=left;verticalAlign=middle;fillColor=none;spacingLeft=34;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;dropTarget=0;fontStyle=5;" parent="2e49270ec7c68f3f-8" vertex="1">
           <mxGeometry y="26" width="210" height="30" as="geometry" />
@@ -45,12 +45,6 @@
         </mxCell>
         <mxCell id="2e49270ec7c68f3f-14" value="" style="shape=partialRectangle;top=0;left=0;bottom=0;html=1;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[];portConstraint=eastwest;part=1;" parent="2e49270ec7c68f3f-13" vertex="1" connectable="0">
           <mxGeometry width="30" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="2e49270ec7c68f3f-15" value="NIF VARCHAR(11) UNIQUE" style="shape=partialRectangle;top=0;left=0;right=0;bottom=0;html=1;align=left;verticalAlign=top;fillColor=none;spacingLeft=34;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;dropTarget=0;" parent="2e49270ec7c68f3f-8" vertex="1">
-          <mxGeometry y="108" width="210" height="22" as="geometry" />
-        </mxCell>
-        <mxCell id="2e49270ec7c68f3f-16" value="" style="shape=partialRectangle;top=0;left=0;bottom=0;html=1;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[];portConstraint=eastwest;part=1;" parent="2e49270ec7c68f3f-15" vertex="1" connectable="0">
-          <mxGeometry width="30" height="22" as="geometry" />
         </mxCell>
         <mxCell id="2e49270ec7c68f3f-80" value="Book" style="swimlane;html=1;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#e0e0e0;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;swimlaneFillColor=#ffffff;align=center;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=14" parent="1" vertex="1">
           <mxGeometry x="270" y="358" width="230" height="272" as="geometry" />

@@ -1,15 +1,15 @@
 1- Listar Países
 2- Listar Categorias
 3- Listar Filmes
-3- Listar Filmes por País (deve pedir o nome do País)
-4- Listar Filmes por Categoria (Deve pedir o nome da Categoria)
-5- Procurar País (por nome)
-6- Procurar Categoria (por nome)
-7- Procurar Filme (por nome)
-8- Inserir País
-9- Inserir Categoria
-10- Inserir Filme
-11- Alterar País (por id)
-12- Alterar Categoria (por id)
-13- Alterar Filme (por id)
-14- Sair
+4- Listar Filmes por País (deve pedir o nome do País)
+5- Listar Filmes por Categoria (Deve pedir o nome da Categoria)
+6- Procurar País (por nome)
+7- Procurar Categoria (por nome)
+8- Procurar Filme (por nome)
+9- Inserir País
+10- Inserir Categoria
+11- Inserir Filme
+12- Alterar País (por id)
+13- Alterar Categoria (por id)
+14- Alterar Filme (por id)
+15- Sair

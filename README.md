@@ -1,8 +1,8 @@
-# project Final
-Editora
+# Final Project
+Publisher
 Database
-Fluxo grama
-Diagrama
+Grass flow
+Diagram
 
 ## Credits
 
